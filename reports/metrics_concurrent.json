@@ -1,0 +1,13 @@
+{
+  "workers": 10,
+  "total_requests": 300,
+  "availability": 0.99,
+  "cache_hit_rate": 0.6933,
+  "static_fallbacks": 3,
+  "wall_clock_ms": 2732.84,
+  "throughput_rps": 109.78,
+  "latency_p50_ms": 0.43,
+  "latency_p95_ms": 474.38,
+  "latency_p99_ms": 508.67,
+  "circuit_open_count": 1
+}
